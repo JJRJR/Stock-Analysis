@@ -22,4 +22,5 @@ By refactoring the code to include a ticker index and 3 seperate arrays we were 
 ![VBA refactored 2017 runtime analysis](https://user-images.githubusercontent.com/108442512/181016984-e5134378-ccfd-42c1-948f-4db33bcab27c.png)
 ![VBA refactored 2018 runtime analysis](https://user-images.githubusercontent.com/108442512/181016999-8235aa95-5ff8-45e9-a505-b7c7767afc35.png)
 
-
+## Summary
+Refactoring code is a great way to make your code smoother with much shorter run times. Refactoring also makes your code easier to maintain and understand. 
